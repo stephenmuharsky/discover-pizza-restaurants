@@ -1,0 +1,1426 @@
+{
+  "results": [
+    {
+      "fsq_id": "4d8ba68f0c4e41bdf6f6667f",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 1509,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.640875,
+          "longitude": -79.435251
+        },
+        "main": {
+          "latitude": 43.640978,
+          "longitude": -79.435271
+        },
+        "roof": {
+          "latitude": 43.640978,
+          "longitude": -79.435271
+        }
+      },
+      "link": "/v3/places/4d8ba68f0c4e41bdf6f6667f",
+      "location": {
+        "address": "1432 Queen St W",
+        "country": "CA",
+        "formatted_address": "1432 Queen St W, Toronto ON M6K 1L9",
+        "locality": "Toronto",
+        "postcode": "M6K 1L9",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b59169df964a520f17b28e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 6091,
+      "geocodes": {
+        "main": {
+          "latitude": 43.698723,
+          "longitude": -79.396334
+        },
+        "roof": {
+          "latitude": 43.698723,
+          "longitude": -79.396334
+        }
+      },
+      "link": "/v3/places/4b59169df964a520f17b28e3",
+      "location": {
+        "address": "1900 Yonge St",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "1900 Yonge St, Toronto ON M4S 1Z2",
+        "locality": "Toronto",
+        "postcode": "M4S 1Z2",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4ae88120f964a520ebaf21e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 21671,
+      "geocodes": {
+        "main": {
+          "latitude": 43.707394,
+          "longitude": -79.699149
+        },
+        "roof": {
+          "latitude": 43.707394,
+          "longitude": -79.699149
+        }
+      },
+      "link": "/v3/places/4ae88120f964a520ebaf21e3",
+      "location": {
+        "address": "34 Avondale Blvd",
+        "country": "CA",
+        "formatted_address": "34 Avondale Blvd, Brampton ON L6T 1H3",
+        "locality": "Brampton",
+        "postcode": "L6T 1H3",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b80a2c1f964a520908230e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 4950,
+      "geocodes": {
+        "main": {
+          "latitude": 43.640131,
+          "longitude": -79.381339
+        },
+        "roof": {
+          "latitude": 43.640131,
+          "longitude": -79.381339
+        }
+      },
+      "link": "/v3/places/4b80a2c1f964a520908230e3",
+      "location": {
+        "address": "208 Queens Quay W",
+        "address_extended": "Unit 9",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "208 Queens Quay W, Toronto ON M5J 2Y5",
+        "locality": "Toronto",
+        "postcode": "M5J 2Y5",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4d37b3a5fe80a1cdeb6d7e9f",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 11701,
+      "geocodes": {
+        "main": {
+          "latitude": 43.734597,
+          "longitude": -79.346141
+        },
+        "roof": {
+          "latitude": 43.734597,
+          "longitude": -79.346141
+        }
+      },
+      "link": "/v3/places/4d37b3a5fe80a1cdeb6d7e9f",
+      "location": {
+        "address": "19 Marie Labatte Rd",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "19 Marie Labatte Rd, Toronto ON M3C 0J1",
+        "locality": "Toronto",
+        "postcode": "M3C 0J1",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4c45a6c4f799e21efa74afa2",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 11331,
+      "geocodes": {
+        "main": {
+          "latitude": 43.741246,
+          "longitude": -79.513161
+        },
+        "roof": {
+          "latitude": 43.741246,
+          "longitude": -79.513161
+        }
+      },
+      "link": "/v3/places/4c45a6c4f799e21efa74afa2",
+      "location": {
+        "address": "2731 Jane St",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "2731 Jane St, North York ON M3L 1S3",
+        "locality": "North York",
+        "postcode": "M3L 1S3",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5644dbaa498e7f7534154326",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 3404,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.650153,
+          "longitude": -79.398078
+        },
+        "main": {
+          "latitude": 43.650207,
+          "longitude": -79.397949
+        },
+        "roof": {
+          "latitude": 43.650207,
+          "longitude": -79.397949
+        }
+      },
+      "link": "/v3/places/5644dbaa498e7f7534154326",
+      "location": {
+        "address": "55A Cameron St",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "55A Cameron St, Toronto ON M5T 2H1",
+        "locality": "Toronto",
+        "postcode": "M5T 2H1",
+        "region": "ON"
+      },
+      "name": "Maker Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4af601f3f964a5201f0022e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 8754,
+      "geocodes": {
+        "main": {
+          "latitude": 43.648689,
+          "longitude": -79.548803
+        },
+        "roof": {
+          "latitude": 43.648689,
+          "longitude": -79.548803
+        }
+      },
+      "link": "/v3/places/4af601f3f964a5201f0022e3",
+      "location": {
+        "address": "316 Burnhamthorpe Rd",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "316 Burnhamthorpe Rd, Etobicoke ON M9B 2A1",
+        "locality": "Etobicoke",
+        "postcode": "M9B 2A1",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4ca3cbfed5a2a1436a7f4c90",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 18752,
+      "geocodes": {
+        "main": {
+          "latitude": 43.768164,
+          "longitude": -79.268324
+        },
+        "roof": {
+          "latitude": 43.768164,
+          "longitude": -79.268324
+        }
+      },
+      "link": "/v3/places/4ca3cbfed5a2a1436a7f4c90",
+      "location": {
+        "address": "1197 Ellesmere Rd",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "1197 Ellesmere Rd, Toronto ON M1P 2X8",
+        "locality": "Toronto",
+        "postcode": "M1P 2X8",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4bc7c6eb8b7c9c74ac3337cf",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 4644,
+      "geocodes": {
+        "main": {
+          "latitude": 43.661952,
+          "longitude": -79.383082
+        },
+        "roof": {
+          "latitude": 43.661952,
+          "longitude": -79.383082
+        }
+      },
+      "link": "/v3/places/4bc7c6eb8b7c9c74ac3337cf",
+      "location": {
+        "address": "471 Yonge St",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "471 Yonge St, Toronto ON M4Y 1X4",
+        "locality": "Toronto",
+        "postcode": "M4Y 1X4",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b6b0234f964a52043ec2be3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 4050,
+      "geocodes": {
+        "main": {
+          "latitude": 43.65032,
+          "longitude": -79.390207
+        },
+        "roof": {
+          "latitude": 43.65032,
+          "longitude": -79.390207
+        }
+      },
+      "link": "/v3/places/4b6b0234f964a52043ec2be3",
+      "location": {
+        "address": "228 Queen St W",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "228 Queen St W, Toronto ON M5V 1Z6",
+        "locality": "Toronto",
+        "postcode": "M5V 1Z6",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b60916bf964a52015ee29e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 4100,
+      "geocodes": {
+        "main": {
+          "latitude": 43.643213,
+          "longitude": -79.391458
+        },
+        "roof": {
+          "latitude": 43.643213,
+          "longitude": -79.391458
+        }
+      },
+      "link": "/v3/places/4b60916bf964a52015ee29e3",
+      "location": {
+        "address": "340 Front St W",
+        "country": "CA",
+        "cross_street": "Blue Jays Way",
+        "formatted_address": "340 Front St W (Blue Jays Way), Toronto ON M5V 3W7",
+        "locality": "Toronto",
+        "postcode": "M5V 3W7",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4bec78acc43f2d7f80f0dbd9",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 9197,
+      "geocodes": {
+        "main": {
+          "latitude": 43.671016,
+          "longitude": -79.328357
+        },
+        "roof": {
+          "latitude": 43.671016,
+          "longitude": -79.328357
+        }
+      },
+      "link": "/v3/places/4bec78acc43f2d7f80f0dbd9",
+      "location": {
+        "address": "1252 Gerrard St E",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "1252 Gerrard St E, Toronto ON M4L 1Y6",
+        "locality": "Toronto",
+        "postcode": "M4L 1Y6",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b89a1daf964a520c34732e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 10882,
+      "geocodes": {
+        "main": {
+          "latitude": 43.745727,
+          "longitude": -79.48737
+        },
+        "roof": {
+          "latitude": 43.745727,
+          "longitude": -79.48737
+        }
+      },
+      "link": "/v3/places/4b89a1daf964a520c34732e3",
+      "location": {
+        "address": "3358 Keele St",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "3358 Keele St, North York ON M3J 1L5",
+        "locality": "North York",
+        "postcode": "M3J 1L5",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "51439564e4b0df0d66a5267e",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 3883,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.658356,
+          "longitude": -79.487725
+        },
+        "main": {
+          "latitude": 43.658247,
+          "longitude": -79.487699
+        },
+        "roof": {
+          "latitude": 43.658247,
+          "longitude": -79.487699
+        }
+      },
+      "link": "/v3/places/51439564e4b0df0d66a5267e",
+      "location": {
+        "address": "785 Annette St",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "785 Annette St, Toronto ON M6S 2E4",
+        "locality": "Toronto",
+        "postcode": "M6S 2E4",
+        "region": "ON"
+      },
+      "name": "Queen Margherita Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4b9c13b7f964a520ad4736e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 17170,
+      "geocodes": {
+        "main": {
+          "latitude": 43.613246,
+          "longitude": -79.646377
+        },
+        "roof": {
+          "latitude": 43.613246,
+          "longitude": -79.646377
+        }
+      },
+      "link": "/v3/places/4b9c13b7f964a520ad4736e3",
+      "location": {
+        "address": "295 Eglinton Ave E",
+        "address_extended": "Unit 16",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "295 Eglinton Ave E, Mississauga ON L4Z 3K6",
+        "locality": "Mississauga",
+        "postcode": "L4Z 3K6",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4bc217ca920eb713a29f1b2c",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "d5740d80-d890-0132-61d3-7a163eb2a6fc",
+          "name": "Pizza Pizza"
+        }
+      ],
+      "distance": 14742,
+      "geocodes": {
+        "main": {
+          "latitude": 43.724861,
+          "longitude": -79.290144
+        },
+        "roof": {
+          "latitude": 43.724861,
+          "longitude": -79.290144
+        }
+      },
+      "link": "/v3/places/4bc217ca920eb713a29f1b2c",
+      "location": {
+        "address": "830 Warden Ave",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "830 Warden Ave, Scarborough ON M1L 4W1",
+        "locality": "Scarborough",
+        "postcode": "M1L 4W1",
+        "region": "ON"
+      },
+      "name": "Pizza Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4d7e5290dd4a6ea80d4d6725",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 3095,
+      "geocodes": {
+        "main": {
+          "latitude": 43.657847,
+          "longitude": -79.401739
+        },
+        "roof": {
+          "latitude": 43.657847,
+          "longitude": -79.401739
+        }
+      },
+      "link": "/v3/places/4d7e5290dd4a6ea80d4d6725",
+      "location": {
+        "address": "302 College St",
+        "country": "CA",
+        "cross_street": "at Robert St",
+        "formatted_address": "302 College St (at Robert St), Toronto ON M5T 1R9",
+        "locality": "Toronto",
+        "postcode": "M5T 1R9",
+        "region": "ON"
+      },
+      "name": "Pizza Fresca",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4dd5dc2445ddced820612749",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 2660,
+      "geocodes": {
+        "main": {
+          "latitude": 43.677961,
+          "longitude": -79.443916
+        },
+        "roof": {
+          "latitude": 43.677961,
+          "longitude": -79.443916
+        }
+      },
+      "link": "/v3/places/4dd5dc2445ddced820612749",
+      "location": {
+        "address": "1182 Saint Clair Ave W",
+        "country": "CA",
+        "formatted_address": "1182 Saint Clair Ave W, Toronto ON M6E 1B4",
+        "locality": "Toronto",
+        "postcode": "M6E 1B4",
+        "region": "ON"
+      },
+      "name": "Pizza e Pazzi",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4baa7b04f964a520ca6d3ae3",
+      "categories": [
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 1643,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.639297,
+          "longitude": -79.443176
+        },
+        "main": {
+          "latitude": 43.639444,
+          "longitude": -79.443205
+        },
+        "roof": {
+          "latitude": 43.639444,
+          "longitude": -79.443205
+        }
+      },
+      "link": "/v3/places/4baa7b04f964a520ca6d3ae3",
+      "location": {
+        "address": "1648 Queen St W",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "1648 Queen St W, Toronto ON M6R 1B2",
+        "locality": "Toronto",
+        "postcode": "M6R 1B2",
+        "region": "ON"
+      },
+      "name": "Amico's Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4da70d0b90a00b5184013400",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 981,
+      "geocodes": {
+        "main": {
+          "latitude": 43.648675,
+          "longitude": -79.449782
+        },
+        "roof": {
+          "latitude": 43.648675,
+          "longitude": -79.449782
+        }
+      },
+      "link": "/v3/places/4da70d0b90a00b5184013400",
+      "location": {
+        "address": "321 Roncesvalles Ave",
+        "country": "CA",
+        "formatted_address": "321 Roncesvalles Ave, Toronto ON M6R 2M6",
+        "locality": "Toronto",
+        "postcode": "M6R 2M6",
+        "region": "ON"
+      },
+      "name": "Pizzeria Defina",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4ada6d36f964a520802221e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 1663,
+      "geocodes": {
+        "main": {
+          "latitude": 43.648965,
+          "longitude": -79.420423
+        },
+        "roof": {
+          "latitude": 43.648965,
+          "longitude": -79.420423
+        }
+      },
+      "link": "/v3/places/4ada6d36f964a520802221e3",
+      "location": {
+        "address": "221 Ossington Ave",
+        "country": "CA",
+        "cross_street": "at Dundas St W",
+        "formatted_address": "221 Ossington Ave (at Dundas St W), Toronto ON M6J 2Z8",
+        "locality": "Toronto",
+        "postcode": "M6J 2Z8",
+        "region": "ON"
+      },
+      "name": "Pizzeria Libretto",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "4ade77f6f964a5200c7621e3",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 2635,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.646143,
+          "longitude": -79.409214
+        },
+        "main": {
+          "latitude": 43.646299,
+          "longitude": -79.409245
+        },
+        "roof": {
+          "latitude": 43.646299,
+          "longitude": -79.409245
+        }
+      },
+      "link": "/v3/places/4ade77f6f964a5200c7621e3",
+      "location": {
+        "address": "720 Queen St W",
+        "country": "CA",
+        "cross_street": "at Claremont St.",
+        "formatted_address": "720 Queen St W (at Claremont St.), Toronto ON M6J 1E8",
+        "locality": "Toronto",
+        "postcode": "M6J 1E8",
+        "region": "ON"
+      },
+      "name": "Terroni",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "60eb6856be2741225b07217b",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 1578,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.646447,
+          "longitude": -79.423527
+        },
+        "main": {
+          "latitude": 43.646365,
+          "longitude": -79.423747
+        },
+        "roof": {
+          "latitude": 43.646365,
+          "longitude": -79.423747
+        }
+      },
+      "link": "/v3/places/60eb6856be2741225b07217b",
+      "location": {
+        "address": "181 Dovercourt Rd",
+        "country": "CA",
+        "cross_street": "at Argyle St",
+        "formatted_address": "181 Dovercourt Rd (at Argyle St), Toronto ON M6J 3C6",
+        "locality": "Toronto",
+        "postcode": "M6J 3C6",
+        "region": "ON"
+      },
+      "name": "Pizzeria Badiali",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5023fac5e4b0dc22368e16cb",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 2808,
+      "geocodes": {
+        "main": {
+          "latitude": 43.646951,
+          "longitude": -79.406451
+        },
+        "roof": {
+          "latitude": 43.646951,
+          "longitude": -79.406451
+        }
+      },
+      "link": "/v3/places/5023fac5e4b0dc22368e16cb",
+      "location": {
+        "address": "650 1/2 Queen St W",
+        "address_extended": "# 650",
+        "country": "CA",
+        "cross_street": "Palmerston Ave",
+        "formatted_address": "650 1/2 Queen St W (Palmerston Ave), Toronto ON M6J 1E4",
+        "locality": "Toronto",
+        "postcode": "M6J 1E4",
+        "region": "ON"
+      },
+      "name": "North of Brooklyn Pizzeria",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5d69c5854d67cb0008550eae",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 2466,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.651614,
+          "longitude": -79.409388
+        },
+        "main": {
+          "latitude": 43.651731,
+          "longitude": -79.409412
+        },
+        "roof": {
+          "latitude": 43.651731,
+          "longitude": -79.409412
+        }
+      },
+      "link": "/v3/places/5d69c5854d67cb0008550eae",
+      "location": {
+        "address": "832 Dundas St W",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "832 Dundas St W, Toronto ON M6J 1V3",
+        "locality": "Toronto",
+        "postcode": "M6J 1V3",
+        "region": "ON"
+      },
+      "name": "The Fourth Man in the Fire",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5a219ab81c0b34450e104de7",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 3855,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.647252,
+          "longitude": -79.393136
+        },
+        "main": {
+          "latitude": 43.647135,
+          "longitude": -79.393112
+        },
+        "roof": {
+          "latitude": 43.647135,
+          "longitude": -79.393112
+        }
+      },
+      "link": "/v3/places/5a219ab81c0b34450e104de7",
+      "location": {
+        "address": "331 Adelaide St W",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "331 Adelaide St W, Toronto ON M5V 1R5",
+        "locality": "Toronto",
+        "postcode": "M5V 1R5",
+        "region": "ON"
+      },
+      "name": "General Assembly",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5462ac56498e128ccafe8fea",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13236,
+          "name": "Italian Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 4465,
+      "geocodes": {
+        "main": {
+          "latitude": 43.648456,
+          "longitude": -79.384955
+        },
+        "roof": {
+          "latitude": 43.648456,
+          "longitude": -79.384955
+        }
+      },
+      "link": "/v3/places/5462ac56498e128ccafe8fea",
+      "location": {
+        "address": "155 University Ave",
+        "country": "CA",
+        "cross_street": "at Pearl St",
+        "formatted_address": "155 University Ave (at Pearl St), Toronto ON M5H 3B7",
+        "locality": "Toronto",
+        "postcode": "M5H 3B7",
+        "region": "ON"
+      },
+      "name": "Pizzeria Libretto",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "5615b6c4498e3c32c67ad78f",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 4837,
+      "geocodes": {
+        "main": {
+          "latitude": 43.656609,
+          "longitude": -79.380128
+        },
+        "roof": {
+          "latitude": 43.656609,
+          "longitude": -79.380128
+        }
+      },
+      "link": "/v3/places/5615b6c4498e3c32c67ad78f",
+      "location": {
+        "address": "10 Dundas St E",
+        "address_extended": "# 124",
+        "country": "CA",
+        "cross_street": "",
+        "formatted_address": "10 Dundas St E, Toronto ON M5B 2G9",
+        "locality": "Toronto",
+        "postcode": "M5B 2G9",
+        "region": "ON"
+      },
+      "name": "Blaze Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    },
+    {
+      "fsq_id": "55cbe079498e206cdf9f4c97",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 8714,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 43.663102,
+          "longitude": -79.332419
+        },
+        "main": {
+          "latitude": 43.662924,
+          "longitude": -79.332362
+        },
+        "roof": {
+          "latitude": 43.662924,
+          "longitude": -79.332362
+        }
+      },
+      "link": "/v3/places/55cbe079498e206cdf9f4c97",
+      "location": {
+        "address": "1168 Queen St E",
+        "country": "CA",
+        "cross_street": "At Jones Ave",
+        "formatted_address": "1168 Queen St E (At Jones Ave), Toronto ON M4M 1L4",
+        "locality": "Toronto",
+        "postcode": "M4M 1L4",
+        "region": "ON"
+      },
+      "name": "Descendant Detroit Style Pizza",
+      "related_places": {},
+      "timezone": "America/Toronto"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 43.6540205,
+          "longitude": -79.4400878
+        },
+        "radius": 22000
+      }
+    }
+  }
+}
