@@ -52,9 +52,10 @@ const PizzaRestaurant = (initialProps) => {
   const id = router.query.id;
 
   const [pizzaRestaurant, setPizzaRestaurant] = useState(
-    initialProps.coffeeStore || {}
+    initialProps.pizzaRestaurant || {}
   );
 
+  // console.log({ pizzaRestaurant });
   const {
     state: { pizzaRestaurants },
   } = useContext(StoreContext);

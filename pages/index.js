@@ -38,7 +38,6 @@ export default function Home(props) {
           );
 
           const pizzaRestaurants = await response.json();
-          //setCoffeeStores(fetchedCoffeeStores);
           dispatch({
             type: ACTION_TYPES.SET_PIZZA_RESTAURANTS,
             payload: {
@@ -46,7 +45,6 @@ export default function Home(props) {
             },
           });
           setPizzaRestaurantsError("");
-          //set coffee stores
         } catch (error) {
           //set error
           console.log({ error });
@@ -95,6 +93,7 @@ export default function Home(props) {
                     }
                     href={`/pizza-restaurant/${pizzaRestaurant.id}`}
                     key={pizzaRestaurant.id}
+                    distance={pizzaRestaurant.distance}
                   />
                 );
               })}
